@@ -1,0 +1,3 @@
+D:\00-학교\01-YNC\00-동아리\02-ITS\01-C\01-연습\09-똥피하기\x64\Debug\09-똥피하기.exe
+C:\Users\hxoxn\Documents\학교\C\똥 피하기\x64\Debug\09-똥피하기.exe
+C:\Users\hxoxn\Desktop\학교\C\[과제] 2105054 홍가영_불똥 피하기 게임\x64\Debug\09-똥피하기.exe
